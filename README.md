@@ -1,0 +1,2 @@
+# distribution_network_reconfiguration_MILP
+配电网网络重构的混合整数线性规划模型，使用gurobi求解。测试网络IEEE14节点配电网。
